@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tretiner
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning python, kotlin, c++.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me? it is impossible.
